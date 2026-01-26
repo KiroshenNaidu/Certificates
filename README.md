@@ -18,7 +18,6 @@ For ease of navigation, the certifications in this repository are categorized by
 Each folder contains verified digital credentials, including:
 * **PDF Certificates**
 * **Completion Badges**
-* **Direct links to verified online records** (where applicable)
 
 ---
 
