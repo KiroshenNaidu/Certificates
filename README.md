@@ -28,3 +28,7 @@ Each folder contains verified digital credentials, including:
 
 ---
 *Last updated: 2026*
+
+# Personal Links
+Website : https://kiroshennaiduportfolio.netlify.app/
+Credly : https://www.credly.com/users/kiroshen
