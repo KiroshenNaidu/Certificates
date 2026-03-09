@@ -10,7 +10,7 @@ This repository serves as a curated collection of my academic and professional a
 
 For ease of navigation, the certifications in this repository are categorized by **issuing institution** and **specialization**. 
 
-* **By Source:** Folders are named after the platform or institution (e.g., FreeCodeCamp, Coursera, Udemy).
+* **By Source:** Folders are named after the platform or institution (e.g., Zendesk Training, Coursera).
 * **By Specialization:** Sub-folders or files are organized by the specific skill set or course title.
 
 # 🛠️ Verified Credentials
